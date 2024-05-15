@@ -68,9 +68,3 @@ This Guessing Game uses socket programming to enable multiple clients to connect
 ## Clearing the Leaderboard
 
 To clear the leaderboard, type `clear` in the server console and press Enter. This will reset the leaderboard and save the empty state to `scores.json`.
-
-## License
-This project is licensed under the MIT License.
-
-## Contributing
-Feel free to open issues or submit pull requests if you have any improvements or bug fixes.
